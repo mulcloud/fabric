@@ -1,5 +1,7 @@
 # fabric
 
+[![npm version](https://img.shields.io/npm/v/@trillion/fabric.svg?style=flat-square)](https://img.shields.io/npm/v/@trillion/fabric.svg?style=flat-square)
+
 A collection of configuration files containing prettier, eslint
 
 # Use
